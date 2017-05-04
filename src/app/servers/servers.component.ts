@@ -15,7 +15,7 @@ export class ServersComponent implements OnInit {
   allowNewServer = false;
 
   addNewServer(){
-
+    
   }
 
   constructor() {
